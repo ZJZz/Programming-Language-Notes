@@ -167,4 +167,7 @@ Dijkstra<MAXK *MAXN> sd;
 Dijkstra<MAXN> pd;
 ```
 
-  
+
+[newline and endline differences](http://stackoverflow.com/questions/7324843/why-use-endl-when-i-can-use-a-newline-character)
+
+[Enum Naming Convention- Plural](http://stackoverflow.com/questions/1405851/enum-naming-convention-plural)
